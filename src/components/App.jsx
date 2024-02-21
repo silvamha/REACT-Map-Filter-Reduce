@@ -1,14 +1,7 @@
 import React from "react";
 import emojipedia from "../emojipedia";
 
-const populateNewMeaning = (entry) =>{
-    return entry.meaning
-}
-const newMeaning = emojipedia.map()
 
-console.log(emojipedia)
-
-console.log(newMeaning)
 
 
 const App = () => {

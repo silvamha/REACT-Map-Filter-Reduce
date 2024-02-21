@@ -1,6 +1,6 @@
 import React from "react";
-import ReactDom from "react-dom";
-import App from "./components/App.jsx"; 
+import ReactDOM from "react-dom";
+import App from "./components/App.jsx";
 
 // var numbers = [3, 56, 2, 48, 5];
 
@@ -15,6 +15,6 @@ import App from "./components/App.jsx";
 //FindIndex - find the index of the first item that matches.
 
 
-ReactDom.render(<App />
+ReactDOM.render(<App />
 ,document.getElementById('root')
 );
