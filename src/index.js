@@ -15,4 +15,6 @@ import App from "./components/App.jsx";
 //FindIndex - find the index of the first item that matches.
 
 
-ReactDom.render(<App />, document.getElementById('root'));
+ReactDom.render(<App />
+,document.getElementById('root')
+);
