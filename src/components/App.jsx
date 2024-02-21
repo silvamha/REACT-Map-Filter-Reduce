@@ -11,10 +11,12 @@ console.log(emojipedia)
 console.log(newMeaning)
 
 
-const App = () =>{
-    return <div>
-        <h1>This is only a test</h1>
-    </div>
+const App = () => {
+    return (
+        <div>
+            <h1>This is only a test</h1>
+        </div>
+    );
 }
 
 <div>
