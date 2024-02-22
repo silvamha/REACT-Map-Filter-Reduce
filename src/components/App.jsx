@@ -7,15 +7,11 @@ const App = () => {
           <h1>This is only a test</h1>  
           <p>Only a test</p>
     </div>
-  
-
-
   );
 };
 
 <div>
   <App />
-
 </div>;
 
 export default App;
